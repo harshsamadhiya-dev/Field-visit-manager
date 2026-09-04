@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726532824965",
+    "project_id": "visit-manager-system",
+    "storage_bucket": "visit-manager-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726532824965:android:852425b5a59b8e763b6eec",
+        "android_client_info": {
+          "package_name": "com.example.field_visit_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhb-4anlAYC5BzVbEj0lM-fhC-JeVvAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

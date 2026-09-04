@@ -1,0 +1,33 @@
+name: field_visit_manager
+description: "Field Visit Manager - UTS/ATVM maintenance engineer app (CRIS project)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # Firebase
+  firebase_core: ^4.11.0
+  firebase_auth: ^6.5.4
+  cloud_firestore: ^6.6.0
+
+  # State management
+  provider: ^6.1.1
+
+  # Utilities
+  intl: ^0.19.0
+  uuid: ^4.2.2
+  fl_chart: ^0.66.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
